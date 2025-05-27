@@ -1,0 +1,9 @@
+tensorflow==2.15.0
+librosa==0.10.1
+numpy==1.26.4
+PyAudio==0.2.14
+pveagle==1.0.1
+flask==3.0.2
+pydub==0.25.1
+keras==2.15.0
+pvrecorder==1.2.2
